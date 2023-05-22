@@ -1,0 +1,118 @@
+.profile-container{
+    overflow: hidden;
+}
+.profile-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+
+.iconprofile{
+    font-size: 25px;
+    background-color: #eef0f2;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.iconprofile1{
+    font-size: 25px;
+    color: white;
+    background-color: rgb(6, 6, 6);
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.profile-info >h1 {
+    font-size: 28px;
+    margin-top: 18px;
+   
+}
+
+.profile-info1{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.img1{
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+    transform: rotate(35deg);
+}
+.img2{
+    height: 200px;
+    width: 180px;
+    border-radius: 10px;
+    z-index: 2;
+    
+}
+.img3{
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+    transform: rotate(335deg);
+}
+
+.icontele{
+    color: #2da4df;
+    font-size: 40px;
+}
+
+.iconlink{
+    color: #0761bb;
+    font-size: 40px;
+}
+
+.iconfac{
+    color: #bd3ed7;
+    font-size: 40px;
+}
+
+.icondis{
+    color: #5765f1;
+    font-size: 40px;
+}
+
+.profile-info3{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.profile-info2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px;
+}
+
+.profile-info2 > h1 {
+    margin-bottom: 15px;
+}
+
+.iconcheck{
+    font-size: 25px;
+    color: white;
+    background-color: #6156df;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.sub-profile3, .sub-profile2, .sub-profile1{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    
+}
+
+.sub-profile2 >button, .sub-profile3 > button{
+    border: none;
+    padding: 5px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.profile-info4{
+    margin: 40px;
+}
